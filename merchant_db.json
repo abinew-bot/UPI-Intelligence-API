@@ -1,0 +1,13 @@
+{
+    "swiggy": "Food",
+    "zomato": "Food",
+    "amazon": "Shopping",
+    "flipkart": "Shopping",
+    "uber": "Travel",
+    "ola": "Travel",
+    "dominos": "Unknown",
+    "rapido": "Unknown",
+    "ajio": "Unknown",
+    "google": "Unknown",
+    "hotstar": "Unknown"
+}
